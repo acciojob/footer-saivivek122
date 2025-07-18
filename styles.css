@@ -1,1 +1,90 @@
 /* your code here */
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	 font-family: 'Segoe UI', sans-serif;
+}
+
+.content{
+	background-color:black;
+	height:300px;
+	padding-left:9px
+
+	
+}
+.logo_name{
+	color:white;
+	font-weight:bold;
+	font-size:30px;
+	
+}
+
+.media-icons{
+	display:flex;
+	position:absolute;
+	right:20px;
+	gap:15px;
+	
+}
+.link-boxes{
+	display:flex;
+	justify-content:space-between;
+	margin-top:60px;	
+}
+ul{
+	list-style-type:none;
+	
+
+}
+li{
+	color:white;
+	padding-bottom:3px;
+	
+}
+a{
+	text-decoration:none;
+}
+.text{
+	color:white;
+	text-decoration:underline;
+}
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+	background-color:#393E46;
+	width:auto;
+	height:60px;
+	
+}
+#cr{
+	color:#F2F2F2;
+	padding:2vw;
+}
+#pp{
+	color:#F2F2F2;
+	padding:2vw
+}
+
+
+
+
+
+
+
+.facebook {
+  color: #1877F2;
+}
+
+.twitter {
+  color: #1DA1F2;
+}
+
+.instagram {
+  color: #C13584;
+}
+
+.linkedin {
+  color: #0077B5;
+}
